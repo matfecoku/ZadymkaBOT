@@ -36,7 +36,6 @@
         "xqcSmash": 
         {
             "Location": "../images/xqcSmash.gif",
-            "Source": "xqc"
         },
         "PianoTime": 
         {
@@ -45,7 +44,6 @@
         "xqcPls": 
         {
             "Location": "../images/xqcPls.gif",
-            "Source": "xqc"
         },
         "pepeJAM": 
         {
@@ -58,7 +56,6 @@
         "xqcCD": 
         {
             "Location": "../images/xqcCD.png",
-            "Source": "xqc"
         },
         "pepeD": 
         {
@@ -83,17 +80,14 @@
         "xqcJAM": 
         {
             "Location": "../images/xqcJAM.gif",
-            "Source": "xqc"
         },
         "xqcDitch": 
         {
             "Location": "../images/xqcDitch.gif",
-            "Source": "xqc"
         },
         "xqcSlam": 
         {
             "Location": "../images/xqcSlam.gif",
-            "Source": "xqc"
         },
         "WEEBSOUT": 
         {
@@ -102,7 +96,6 @@
         "xqcDisco": 
         {
             "Location": "../images/xqcDisco.gif",
-            "Source": "xqc"
         },
         "yikesJAM": 
         {

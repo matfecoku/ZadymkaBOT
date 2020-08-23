@@ -183,7 +183,7 @@
         },
         "monkaGun": 
         {
-            "Location": "../images/MonkaGun.png"
+            "Location": "../images/monkaGun.png"
         },
         "TriKool": 
         {
@@ -575,7 +575,7 @@
         },
         "pepeL": 
         {
-            "Location": "../images/pepeL.gif"
+            "Location": "../images/PepeL.gif"
         },
         "peepoHey": 
         {
@@ -595,7 +595,7 @@
         },
         "PeepoClap": 
         {
-            "Location": "../images/PeepoClap.gif"
+            "Location": "../images/peepoClap.gif"
         },
         "RiotPhreak": 
         {
@@ -671,7 +671,7 @@
         },
         "RarePope":
         {
-            "Location": "../images/RarePope.gif"
+            "Location": "../images/rarePope.gif"
         },
         "VisLaud":
         {

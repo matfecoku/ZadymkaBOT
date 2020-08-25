@@ -1,0 +1,25 @@
+{
+  "Sounds":
+  {
+    "zadymka":
+    {
+      "Location": "../sounds/zadymka.mp3"
+    },
+    "firmoweczka":
+    {
+      "Location": "../sounds/firmoweczka.mp3"
+    },
+    "smiechawa":
+    {
+      "Location": "../sounds/smiechawa.mp3"
+    },
+    "pajace":
+    {
+      "Location": "../sounds/pajace.mp3"
+    },
+    "ff":
+    {
+      "Location": "../sounds/ff.mp3"
+    }
+  }
+}

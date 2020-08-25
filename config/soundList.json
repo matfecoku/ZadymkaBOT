@@ -44,6 +44,10 @@
     "bonjour":
     {
       "Location": "../sounds/bonjour.mp3"
+    },
+    "konstytucja":
+    {
+      "Location": "../sounds/konstytucja.mp3"
     }
   }
 }

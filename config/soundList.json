@@ -40,6 +40,10 @@
     "skala":
     {
       "Location": "../sounds/skala.mp3"
+    },
+    "bonjour":
+    {
+      "Location": "../sounds/bonjour.mp3"
     }
   }
 }

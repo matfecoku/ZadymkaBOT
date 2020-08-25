@@ -24,6 +24,18 @@
     "tyler1":
     {
       "Location": "../sounds/tyler1.mp3"
+    },
+    "kamilek":
+    {
+      "Location": "../sounds/kamilek.mp3" 
+    },
+    "belm":
+    {
+      "Location": "../sounds/belm.mp3"
+    },
+    "pudzian":
+    {
+      "Location": "../sounds/pudzian.mp3"
     }
   }
 }

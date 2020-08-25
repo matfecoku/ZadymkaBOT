@@ -36,6 +36,10 @@
     "pudzian":
     {
       "Location": "../sounds/pudzian.mp3"
+    },
+    "skala":
+    {
+      "Location": "../sounds/skala.mp3"
     }
   }
 }

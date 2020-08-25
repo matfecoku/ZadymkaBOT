@@ -676,6 +676,10 @@
         "VisLaud":
         {
             "Location": "../images/VisLaud.png"
+        },
+        "RafisDance":
+        {
+            "Location": "../images/RafisDance.gif"
         }
     }
 }

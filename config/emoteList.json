@@ -680,6 +680,10 @@
         "RafisDance":
         {
             "Location": "../images/RafisDance.gif"
+        },
+        "PolackDance":
+        {
+            "Location": "../images/PolackDance.gif"
         }
     }
 }

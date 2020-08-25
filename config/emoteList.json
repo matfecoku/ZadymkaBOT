@@ -677,11 +677,11 @@
         {
             "Location": "../images/VisLaud.png"
         },
-        "RafisDance":
+        "rafisDance":
         {
             "Location": "../images/RafisDance.gif"
         },
-        "PolackDance":
+        "polackDance":
         {
             "Location": "../images/PolackDance.gif"
         }

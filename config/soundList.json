@@ -7,7 +7,7 @@
     },
     "firmoweczka":
     {
-      "Location": "../sounds/firmoweczka.mp3"
+      "Location": "../sounds/tepuje.mp3"
     },
     "smiechawa":
     {
@@ -20,6 +20,10 @@
     "ff":
     {
       "Location": "../sounds/ff.mp3"
+    },
+    "tyler1":
+    {
+      "Location": "../sounds/tyler1.mp3"
     }
   }
 }

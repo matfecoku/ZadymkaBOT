@@ -48,6 +48,10 @@
     "konstytucja":
     {
       "Location": "../sounds/konstytucja.mp3"
+    },
+    "shut up":
+    {
+      "Location": "../sounds/shutup.mp3"
     }
   }
 }

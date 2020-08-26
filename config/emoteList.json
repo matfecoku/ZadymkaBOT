@@ -688,6 +688,10 @@
         "BlessRNG":
         {
             "Location": "../images/blessRNG.png"
+        },
+        "PogO":
+        {
+            "Location": "../images/PogO.png"
         }
     }
 }

@@ -56,6 +56,10 @@
     "wifi":
     {
       "Location": "../sounds/wifi.mp3"
+    },
+    "gangsta":
+    {
+      "Location": "../sounds/gangsta.mp3"
     }
   }
 }

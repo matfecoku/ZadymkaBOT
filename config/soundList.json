@@ -60,6 +60,10 @@
     "gangsta":
     {
       "Location": "../sounds/gangsta.mp3"
+    },
+    "holdup":
+    {
+      "Location": "../sounds/holdup.mp3"
     }
   }
 }

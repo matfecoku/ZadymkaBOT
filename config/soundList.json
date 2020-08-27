@@ -72,6 +72,10 @@
     "zabawa":
     {
       "Location": "../sounds/zabawa.mp3"
+    },
+    "fc":
+    {
+      "Location": "../sounds/fc.mp3"
     }
   }
 }

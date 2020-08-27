@@ -64,6 +64,14 @@
     "holdup":
     {
       "Location": "../sounds/holdup.mp3"
+    },
+    "doladowanie":
+    {
+      "Location": "../sounds/doladowanie.mp3"
+    },
+    "zabawa":
+    {
+      "Location": "../sounds/zabawa.mp3"
     }
   }
 }

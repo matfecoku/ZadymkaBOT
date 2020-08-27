@@ -80,6 +80,10 @@
     "most":
     {
       "Location": "../sounds/most.mp3"
+    },
+    "lol":
+    {
+      "Location": "../sounds/lol.mp3"
     }
   }
 }

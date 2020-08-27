@@ -692,6 +692,42 @@
         "PogO":
         {
             "Location": "../images/PogO.png"
+        },
+        "FatRafis":
+        {
+            "Location": "../images/FatRafis.png"
+        },
+        "Polack300Shields":
+        {
+            "Location": "../images/Polack300Shields.gif"
+        },
+        "PolackCo":
+        {
+            "Location": "../images/PolackCo.gif"
+        },
+        "polackDupoKlap":
+        {
+            "Location": "../images/polackDupoKlap.gif"
+        },
+        "PolackHead":
+        {
+            "Location": "../images/PolackHead.png"
+        },
+        "PolackJeb":
+        {
+            "Location": "..images/PolackJeb.gif"
+        },
+        "PolackRage":
+        {
+            "Location": "../images/PolackRage.gif"
+        },
+        "PolackShrug":
+        {
+            "Location": "../images/PolackShrug.gif"
+        },
+        "PolackUpadek":
+        {
+            "Location": "../images/PolackUpadek.gif"
         }
     }
 }

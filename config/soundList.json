@@ -52,6 +52,10 @@
     "shutup":
     {
       "Location": "../sounds/shutup.mp3"
+    },
+    "wifi":
+    {
+      "Location": "../sounds/wifi.mp3"
     }
   }
 }

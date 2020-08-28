@@ -84,10 +84,7 @@
     "lol":
     {
       "Location": "../sounds/lol.mp3"
-    },
-    "tyler":
-    {
-      "Location": "../sounds/tyler.mp3"
     }
+    
   }
 }

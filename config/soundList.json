@@ -92,6 +92,10 @@
     "ziemia":
     {
       "Location": "../sounds/ziemia.mp3"
+    },
+    "twojastara":
+    {
+      "Location": "../sounds/twojastara.mp3"
     }
   }
 }

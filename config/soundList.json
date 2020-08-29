@@ -96,6 +96,10 @@
     "twojastara":
     {
       "Location": "../sounds/twojastara.mp3"
+    },
+    "slotki":
+    {
+      "Location": "../sounds/slotki.mp3"
     }
   }
 }

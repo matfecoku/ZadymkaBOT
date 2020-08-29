@@ -104,6 +104,10 @@
     "prostownica":
     {
       "Location": "../sounds/prostownica.mp3"
+    },
+    "wkurzenie":
+    {
+      "Location": "../sounds/wkurzenie.mp3"
     }
   }
 }

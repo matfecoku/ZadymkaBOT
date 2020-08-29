@@ -88,6 +88,10 @@
     "banktheme":
     {
       "Location": "../sounds/polackspiew.mp3"
+    },
+    "ziemia":
+    {
+      "Location": "../sounds/ziemia.mp3"
     }
   }
 }

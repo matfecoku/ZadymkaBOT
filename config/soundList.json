@@ -108,6 +108,10 @@
     "wkurzenie":
     {
       "Location": "../sounds/wkurzenie.mp3"
+    },
+    "lovestory":
+    {
+      "Location": "../sounds/lovestory.mp3"
     }
   }
 }

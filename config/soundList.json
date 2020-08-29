@@ -84,7 +84,10 @@
     "lol":
     {
       "Location": "../sounds/lol.mp3"
+    },
+    "banktheme":
+    {
+      "Location": "../sounds/polackspiew.mp3"
     }
-    
   }
 }

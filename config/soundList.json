@@ -112,6 +112,10 @@
     "lovestory":
     {
       "Location": "../sounds/lovestory.mp3"
+    },
+    "rafis":
+    {
+      "Location": "../sounds/rafis.mp3"
     }
   }
 }

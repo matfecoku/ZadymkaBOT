@@ -116,6 +116,10 @@
     "rafis":
     {
       "Location": "../sounds/rafis.mp3"
+    },
+    "gucio":
+    {
+      "Location": "../sounds/gucio.mp3"
     }
   }
 }

@@ -120,6 +120,10 @@
     "gucio":
     {
       "Location": "../sounds/gucio.mp3"
+    },
+    "msza":
+    {
+      "Location": "../sounds/msza.mp3"
     }
   }
 }

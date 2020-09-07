@@ -728,6 +728,10 @@
         "PolackUpadek":
         {
             "Location": "../images/PolackUpadek.gif"
+        },
+        "Rohulk":
+        {
+            "Location": "../images/Rohulk.gif"
         }
     }
 }

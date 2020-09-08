@@ -132,6 +132,10 @@
     "harambe":
     {
       "Location": "../sounds/harambe.mp3"
+    },
+    "psycha":
+    {
+      "Location": "../sounds/psycha.mp3"
     }
   }
 }

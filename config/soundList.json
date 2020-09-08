@@ -124,6 +124,10 @@
     "msza":
     {
       "Location": "../sounds/msza.mp3"
+    },
+    "twojstary":
+    {
+      "Location": "../sounds/twojstary.mp3"
     }
   }
 }

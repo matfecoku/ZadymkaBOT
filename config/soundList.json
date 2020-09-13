@@ -140,6 +140,10 @@
     "babol":
     {
       "Location": "../sounds/babol.mp3"
+    },
+    "korba":
+    {
+      "Location": "../sounds/korba.mp3"
     }
   }
 }

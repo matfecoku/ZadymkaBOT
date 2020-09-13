@@ -136,6 +136,10 @@
     "psycha":
     {
       "Location": "../sounds/psycha.mp3"
+    },
+    "babol":
+    {
+      "Location": "../sounds/babol.mp3"
     }
   }
 }

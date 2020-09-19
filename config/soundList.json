@@ -144,6 +144,10 @@
     "korba":
     {
       "Location": "../sounds/korba.mp3"
+    },
+    "qbik":
+    {
+      "Location": "../sounds/qbik.mp3"
     }
   }
 }

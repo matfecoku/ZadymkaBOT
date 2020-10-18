@@ -148,6 +148,10 @@
     "qbik":
     {
       "Location": "../sounds/qbik.mp3"
+    },
+    "ktopytal":
+    {
+      "Location": "../sounds/ktopytal.mp3"
     }
   }
 }

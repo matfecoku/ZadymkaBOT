@@ -152,6 +152,126 @@
     "ktopytal":
     {
       "Location": "../sounds/ktopytal.mp3"
+    },
+    "africa":
+    {
+      "Location": "../sounds/africa1.mp3"
+    },
+    "beatsbydre":
+    {
+      "Location": "../sounds/beats-by-dre.mp3"
+    },
+    "black":
+    {
+      "Location": "../sounds/black1.mp3"
+    },
+    "chicken":
+    {
+      "Location": "../sounds/chicken_2.mp3"
+    },
+    "chickencook":
+    {
+      "Location": "../sounds/chicken-cook.mp3"
+    },
+    "coonboy":
+    {
+      "Location": "../sounds/coonboy1.mp3"
+    },
+    "darkies":
+    {
+      "Location": "../sounds/darkies.mp3"
+    },
+    "deadbeatdad":
+    {
+      "Location": "../sounds/deadbeatdad1.mp3"
+    },
+    "dodgecharger":
+    {
+      "Location": "../sounds/dodgecharger1.mp3"
+    },
+    "dodgedealership":
+    {
+      "Location": "../sounds/dodge-dealership.mp3"
+    },
+    "eastla":
+    {
+      "Location": "../sounds/eastla1.mp3"
+    },
+    "eatchicken":
+    {
+      "Location": "../sounds/eatchicken.mp3"
+    },
+    "foodstamps":
+    {
+      "Location": "../sounds/foodstamps1.mp3"
+    },
+    "ghetto":
+    {
+      "Location": "../sounds/ghetto1.mp3"
+    },
+    "grapesoda":
+    {
+      "Location": "../sounds/grapesoda.mp3"
+    },
+    "inprison":
+    {
+      "Location": "../sounds/inprison.mp3"
+    },
+    "kfc":
+    {
+      "Location": "../sounds/kfc1.mp3"
+    },
+    "jays":
+    {
+      "Location": "../sounds/jays1.mp3"
+    },
+    "kfcandwatermelon":
+    {
+      "Location": "../sounds/kfcandwatermelon1.mp3"
+    },
+    "kfcmanager":
+    {
+      "Location": "../sounds/kfcmanager1.mp3"
+    },
+    "koolaid":
+    {
+      "Location": "../sounds/koolaid1.mp3"
+    },
+    "negro":
+    {
+      "Location": "../sounds/negro_1.mp3"
+    },
+    "negrow":
+    {
+      "Location": "../sounds/negrow.mp3"
+    },
+    "nigmode":
+    {
+      "Location": "../sounds/nigmode1.mp3"
+    },
+    "saggypants":
+    {
+      "Location": "../sounds/saggypants.mp3"
+    },
+    "scuffedjays.mp3":
+    {
+      "Location": "../sounds/scuffedjays.mp3"
+    },
+    "tykeesha":
+    {
+      "Location": "../sounds/tykeesha.mp3"
+    },
+    "welfare":
+    {
+      "Location": "../sounds/welfare1.mp3"
+    },
+    "welfareoffice":
+    {
+      "Location": "../sounds/welfareoffice1.mp3"
+    },
+    "worldstar":
+    {
+      "Location": "../sounds/worldstar.mp3"
     }
   }
 }

@@ -272,6 +272,10 @@
     "worldstar":
     {
       "Location": "../sounds/worldstar.mp3"
+    },
+    "dada":
+    {
+      "Location": "../sounds/dada.mp3"
     }
   }
 }

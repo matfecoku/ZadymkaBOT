@@ -732,6 +732,10 @@
         "Rohulk":
         {
             "Location": "../images/Rohulk.gif"
+        },
+        "StinkyCheese":
+        {
+            "Location": "../images/stinkycheese.png"
         }
     }
 }

@@ -253,7 +253,7 @@
     {
       "Location": "../sounds/saggypants.mp3"
     },
-    "scuffedjays.mp3":
+    "scuffedjays":
     {
       "Location": "../sounds/scuffedjays.mp3"
     },
@@ -276,6 +276,10 @@
     "dada":
     {
       "Location": "../sounds/dada.mp3"
+    },
+    "ministrant":
+    {
+      "Location": "../sounds/ministrant.mp3"
     }
   }
 }

@@ -280,6 +280,10 @@
     "ministrant":
     {
       "Location": "../sounds/ministrant.mp3"
+    },
+    "snax":
+    {
+      "Location": "../sounds/snax.mp3"
     }
   }
 }

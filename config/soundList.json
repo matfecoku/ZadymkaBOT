@@ -288,6 +288,10 @@
     "ducktales":
     {
       "Location": "../sounds/ducktales.mp3"
+    },
+    "muta":
+    {
+      "Location": "../sounds/muta.mp3"
     }
   }
 }

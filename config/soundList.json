@@ -284,6 +284,10 @@
     "snax":
     {
       "Location": "../sounds/snax.mp3"
+    },
+    "ducktales":
+    {
+      "Location": "../sounds/ducktales.mp3"
     }
   }
 }

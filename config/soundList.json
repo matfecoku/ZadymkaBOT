@@ -296,6 +296,10 @@
     "matrooxgaming":
     {
       "Location": "../sounds/matroooxgaming.mp3"
+    },
+    "africanman":
+    {
+      "Location": "../sounds/africanman.mp3"
     }
   }
 }

@@ -300,6 +300,10 @@
     "africanman":
     {
       "Location": "../sounds/africanman.mp3"
+    },
+    "alezjebales":
+    {
+      "Location": "../sounds/alezjebales.mp3"
     }
   }
 }

@@ -736,6 +736,10 @@
         "StinkyCheese":
         {
             "Location": "../images/stinkycheese.png"
+        },
+        "BIGFROG":
+        {
+            "Location": "../images/BIGFROG.gif"
         }
     }
 }

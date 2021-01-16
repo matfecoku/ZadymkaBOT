@@ -740,6 +740,10 @@
         "BIGFROG":
         {
             "Location": "../images/BIGFROG.gif"
+        },
+        "NothingChamp":
+        {
+            "Location": "../images/pogchamp2.png"
         }
     }
 }

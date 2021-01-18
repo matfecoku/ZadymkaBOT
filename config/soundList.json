@@ -304,6 +304,10 @@
     "alezjebales":
     {
       "Location": "../sounds/alezjebales.mp3"
+    },
+    "oslotsy":
+    {
+      "Location": "../sounds/oslotsy.mp3"
     }
   }
 }

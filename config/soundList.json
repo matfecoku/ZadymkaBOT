@@ -308,6 +308,10 @@
     "oslotsy":
     {
       "Location": "../sounds/oslotsy.mp3"
+    },
+    "nareszcie":
+    {
+      "Location": "../sounds/nareszcie.mp3"
     }
   }
 }

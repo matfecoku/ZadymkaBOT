@@ -312,6 +312,10 @@
     "nareszcie":
     {
       "Location": "../sounds/nareszcie.mp3"
+    },
+    "trzesienieziemi":
+    {
+      "Location": "../sounds/trzesienieziemi.mp3"
     }
   }
 }

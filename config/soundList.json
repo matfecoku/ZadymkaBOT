@@ -316,6 +316,10 @@
     "trzesienieziemi":
     {
       "Location": "../sounds/trzesienieziemi.mp3"
+    },
+    "top10":
+    {
+      "Location": "../sounds/top10.mp3"
     }
   }
 }

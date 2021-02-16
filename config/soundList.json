@@ -324,6 +324,10 @@
     "marcin":
     {
       "Location": "../sounds/duzededwukropek.mp3"
+    },
+    "chujciwdupe":
+    {
+      "Location": "../soumds/chujciwdupe.mp3"
     }
   }
 }

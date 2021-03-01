@@ -332,6 +332,10 @@
     "B)":
     {
       "Location": "../sounds/B).mp3"
+    },
+    "recytacja":
+    {
+      "Location:" "../sounds/recytacja.mp3"
     }
   }
 }

@@ -328,6 +328,10 @@
     "chujciwdupe":
     {
       "Location": "../sounds/chujciwdupe.mp3"
+    },
+    "B)":
+    {
+      "Location": "../sounds/B).mp3"
     }
   }
 }

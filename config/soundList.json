@@ -335,7 +335,7 @@
     },
     "recytacja":
     {
-      "Location:" "../sounds/recytacja.mp3"
+      "Location": "../sounds/recytacja.mp3"
     }
   }
 }

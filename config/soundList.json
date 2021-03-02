@@ -336,6 +336,10 @@
     "recytacja":
     {
       "Location": "../sounds/recytacja.mp3"
+    },
+    "nervarien":
+    {
+      "Location": "../sounds/nervarien.mp3"
     }
   }
 }

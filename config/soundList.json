@@ -340,6 +340,10 @@
     "nervarien":
     {
       "Location": "../sounds/nervarien.mp3"
+    },
+    "halo":
+    {
+      "Location": "../sounds/halo.mp3"
     }
   }
 }

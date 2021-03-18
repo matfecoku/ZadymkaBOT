@@ -344,6 +344,10 @@
     "halo":
     {
       "Location": "../sounds/halo.mp3"
+    },
+    "tomisiepodoba":
+    {
+      "Location": "../sounds/tomisiepodoba.mp3"
     }
   }
 }

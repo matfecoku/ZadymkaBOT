@@ -348,6 +348,10 @@
     "tomisiepodoba":
     {
       "Location": "../sounds/tomisiepodoba.mp3"
+    },
+    "2polakow":
+    {
+      "Location": "../sounds/2polakow.mp3"
     }
   }
 }

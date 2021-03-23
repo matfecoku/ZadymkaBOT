@@ -744,6 +744,10 @@
         "NoothingChamp":
         {
             "Location": "../images/pogchamp2.png"
+        },
+        "Sadeg":
+        {
+            "Location": "../images/Sadeg.png"
         }
     }
 }

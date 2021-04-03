@@ -352,6 +352,10 @@
     "2polakow":
     {
       "Location": "../sounds/2polakow.mp3"
+    },
+    "combo":
+    {
+      "Location": "../sounds/combo.mp3"
     }
   }
 }

@@ -752,6 +752,10 @@
         "YIKERS":
         {
             "Location": "../images/YIKERS.png"
+        },
+        "Okayeg":
+        {
+            "Location": "../images/Okayeg.png"
         }
     }
 }

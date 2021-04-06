@@ -356,6 +356,10 @@
     "combo":
     {
       "Location": "../sounds/combo.mp3"
+    },
+    "pap":
+    {
+      "Location": "../sounds/barka.mp3"
     }
   }
 }

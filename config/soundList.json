@@ -360,6 +360,10 @@
     "pap":
     {
       "Location": "../sounds/barka.mp3"
+    },
+    "orzech":
+    {
+      "Location": "../sounds/orzech.mp3"
     }
   }
 }

@@ -756,6 +756,10 @@
         "Okayeg":
         {
             "Location": "../images/Okayeg.png"
+        },
+        "Tusiejebnij":
+        {
+            "Location": "../images/Tusiejebnij.gif"
         }
     }
 }

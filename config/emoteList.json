@@ -760,6 +760,10 @@
         "Tusiejebnij":
         {
             "Location": "../images/Tusiejebnij.gif"
+        },
+        "MONKE":
+        {
+            "Location": "../images/MONKE.gif"
         }
     }
 }

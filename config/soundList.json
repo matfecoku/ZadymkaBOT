@@ -364,6 +364,10 @@
     "orzech":
     {
       "Location": "../sounds/orzech.mp3"
+    },
+    "kurwakristof":
+    {
+      "Location": "../sounds/kurwakristof.mp3"
     }
   }
 }

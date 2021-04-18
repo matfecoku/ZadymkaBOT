@@ -368,6 +368,10 @@
     "kurwakristof":
     {
       "Location": "../sounds/kurwakristof.mp3"
+    },
+    "salary":
+    {
+      "Location": "../sounds/salary.mp3"
     }
   }
 }

@@ -376,6 +376,10 @@
     "szczur":
     {
       "Location": "../sounds/szczur.mp3"
+    },
+    "arquel":
+    {
+      "Location": "../sounds/arquel.mp3"
     }
   }
 }

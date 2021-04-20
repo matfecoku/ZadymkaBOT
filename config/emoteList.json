@@ -764,6 +764,10 @@
         "MONKE":
         {
             "Location": "../images/MONKE.gif"
+        },
+        "gucioNos":
+        {
+            "Location": "../images/gucioNos.gif"
         }
     }
 }

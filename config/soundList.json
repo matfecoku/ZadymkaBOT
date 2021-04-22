@@ -380,6 +380,10 @@
     "arquel":
     {
       "Location": "../sounds/arquel.mp3"
+    },
+    "midorigo":
+    {
+      "Location": "../sounds/midorigo.mp3"
     }
   }
 }

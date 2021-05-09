@@ -384,6 +384,10 @@
     "midorigo":
     {
       "Location": "../sounds/midorigo.mp3"
+    },
+    "omarcin":
+    {
+      "Location": "../sounds/omarcin.mp3"
     }
   }
 }

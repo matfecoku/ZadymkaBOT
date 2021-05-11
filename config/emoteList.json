@@ -772,6 +772,10 @@
         "POLICE":
         {
             "Location": "../images/POLICE.gif"
+        },
+        "AlienPls":
+        {
+            "Location": "../images/AlienPls.gif"
         }
     }
 }

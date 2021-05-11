@@ -768,6 +768,10 @@
         "gucioNos":
         {
             "Location": "../images/gucioNos.gif"
+        },
+        "POLICE":
+        {
+            "Location": "../images/POLICE.gif"
         }
     }
 }

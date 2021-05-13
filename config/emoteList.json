@@ -776,6 +776,10 @@
         "AlienPls":
         {
             "Location": "../images/AlienPls.gif"
+        },
+        "PepeMods":
+        {
+            "Location": "../images/PepeMods.png"
         }
     }
 }

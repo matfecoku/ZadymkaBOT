@@ -784,6 +784,10 @@
         "Porvalo":
         {
             "Location": "../images/Porvalo.gif"
+        },
+        "izakPls":
+        {
+            "Location": "../images/izakPls.gif"
         }
     }
 }

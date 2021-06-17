@@ -780,6 +780,10 @@
         "PepeMods":
         {
             "Location": "../images/PepeMods.png"
+        },
+        "Porvalo":
+        {
+            "Location": "../images/Porvalo.gif"
         }
     }
 }

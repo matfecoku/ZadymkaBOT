@@ -388,6 +388,10 @@
     "omarcin":
     {
       "Location": "../sounds/omarcin.mp3"
+    },
+    "dobreco":
+    {
+      "Location": "../sounds/dobreco.mp3"
     }
   }
 }
